@@ -1,6 +1,6 @@
 # Registro de Videojuegos
 
-Este es un programa de consola hecho en C# que guarda y consulta videojuegos en una base de datos SQLite usando ADO.NET. Lo hice para la actividad de la Semana 12 de Programacion en C# con .NET.
+Este es un programa de consola hecho en C# que guarda y consulta videojuegos en una base de datos SQLite usando ADO.NET.
 
 ## Que hace
 
